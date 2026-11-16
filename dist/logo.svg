@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <title>Melt JS 模块拼接标志</title>
+  <defs>
+    <linearGradient id="melt" x1="32" y1="32" x2="208" y2="208" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00e6ff"/>
+      <stop offset="1" stop-color="#a0d911"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="200" height="200" rx="48" fill="#101a24"/>
+  <path d="M56 166V74h28l36 52 36-52h28v92h-27v-49l-37 51-37-51v49H56Z" fill="url(#melt)"/>
+</svg>
